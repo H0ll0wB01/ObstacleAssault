@@ -1,0 +1,753 @@
+﻿Log file open, 11/25/23 12:57:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=24848)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ObstacleAssault
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:\Unreal Projects\CursoUdemy\Unreal-Obstacle-project\ObstacleAssault\ObstacleAssault.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3693] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="18af03394991bedfa50b9c940ffa03cb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 11.955873
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9BA7A5414F2BB4D2B0968785A99A8E1D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin RiderLink
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3693] (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[r.MobileMSAA:4]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[r.SSGI.Enable:1]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[r.SupportAtmosphericFog:0]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.11.25-11.57.41:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.11.25-11.57.41:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.11.25-11.57.41:349][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.11.25-11.57.41:436][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.11.25-11.57.41:440][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.11.25-11.57.41:440][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.11.25-11.57.41:440][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.11.25-11.57.41:730][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.11.25-11.57.41:733][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.11.25-11.57.41:733][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.11.25-11.57.41:733][  0]LogD3D11RHI: D3D11 adapters:
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     DeviceId    : 1e89
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     SubSysId    : 20663842
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     DedicatedVideoMemory : 6247415808 bytes
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     SharedSystemMemory : 8547719168 bytes
+[2023.11.25-11.57.41:734][  0]LogD3D11RHI:     AdapterLuid : 0 62549
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_1)
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:       5958/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     Revision    : 0000
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     SharedSystemMemory : 8547719168 bytes
+[2023.11.25-11.57.41:986][  0]LogD3D11RHI:     AdapterLuid : 0 65696
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     DeviceId    : 1e89
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     SubSysId    : 20663842
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     DedicatedVideoMemory : 6247415808 bytes
+[2023.11.25-11.57.41:988][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.11.25-11.57.41:989][  0]LogD3D11RHI:     SharedSystemMemory : 8547719168 bytes
+[2023.11.25-11.57.41:989][  0]LogD3D11RHI:     AdapterLuid : 0 62549
+[2023.11.25-11.57.41:989][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.25-11.57.41:989][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.11.25-11.57.42:082][  0]LogHAL: Display: Platform has ~ 16 GB [17095438336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.25-11.57.42:082][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.11.25-11.57.42:082][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2023.11.25-11.57.42:082][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2023.11.25-11.57.42:104][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2023.11.25-11.57.42:104][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2023.11.25-11.57.42:104][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.11.25-11.57.42:104][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.25-11.57.42:121][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.11.25-11.57.42:121][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini]
+[2023.11.25-11.57.42:248][  0]LogInit: Computer: DESKTOP-DGNAOIQ
+[2023.11.25-11.57.42:248][  0]LogInit: User: Usuario
+[2023.11.25-11.57.42:248][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.11.25-11.57.42:248][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.25-11.57.42:255][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.11.25-11.57.42:255][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.11.25-11.57.42:255][  0]LogMemory: Process Physical Memory: 270.33 MB used, 278.78 MB peak
+[2023.11.25-11.57.42:255][  0]LogMemory: Process Virtual Memory: 248.44 MB used, 252.05 MB peak
+[2023.11.25-11.57.42:255][  0]LogMemory: Physical Memory: 12074.66 MB used,  4228.82 MB free, 16303.48 MB total
+[2023.11.25-11.57.42:255][  0]LogMemory: Virtual Memory: 25290.75 MB used,  13540.73 MB free, 38831.48 MB total
+[2023.11.25-11.57.42:255][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.11.25-11.57.42:274][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.25-11.57.42:791][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.11.25-11.57.42:922][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.11.25-11.57.42:922][  0]LogInit: Using OS detected locale (es-ES).
+[2023.11.25-11.57.43:410][  0]LogInit: Setting process to per monitor DPI aware
+[2023.11.25-11.57.43:649][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.11.25-11.57.43:649][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.11.25-11.57.43:649][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2023.11.25-11.57.43:649][  0]LogWindowsTextInputMethodSystem:   - Español (España, tradicional) - (Keyboard).
+[2023.11.25-11.57.43:649][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.11.25-11.57.43:649][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.11.25-11.57.43:650][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, tradicional) - (Keyboard).
+[2023.11.25-11.57.43:700][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.44:201][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.44:702][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.45:203][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.45:703][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.46:204][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.46:706][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.47:207][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.47:708][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.48:208][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-11.57.48:718][  0]LogFileManager: Error: Error moving file '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Engine046E355B41F6B06DDC763D947620C9EA.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Engine.ini'.
+[2023.11.25-11.57.48:724][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.25-11.57.48:724][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.25-11.57.49:023][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.11.25-11.57.49:023][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2023.11.25-11.57.49:023][  0]LogWindows: Attached monitors:
+[2023.11.25-11.57.49:023][  0]LogWindows:     resolution: 1360x768, work area: (1366, 0) -> (2726, 728), device: '\\.\DISPLAY1'
+[2023.11.25-11.57.49:023][  0]LogWindows:     resolution: 1366x768, work area: (0, 0) -> (1366, 728), device: '\\.\DISPLAY2' [PRIMARY]
+[2023.11.25-11.57.49:023][  0]LogWindows: Found 2 attached monitors.
+[2023.11.25-11.57.49:023][  0]LogWindows: EnumDisplayDevices:
+[2023.11.25-11.57.49:023][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.11.25-11.57.49:023][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:1 D:1), name: '\\.\DISPLAY2'
+[2023.11.25-11.57.49:024][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.11.25-11.57.49:024][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.11.25-11.57.49:024][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:   Driver Version: 537.58 (internal:31.0.15.3758, unified:537.58)
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:      Driver Date: 10-4-2023
+[2023.11.25-11.57.49:024][  0]LogRHI: Texture pool is 4170 MB (70% of 5958 MB)
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     DeviceId    : 1e89
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     SubSysId    : 20663842
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     DedicatedVideoMemory : 6247415808 bytes
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     SharedSystemMemory : 8547719168 bytes
+[2023.11.25-11.57.49:024][  0]LogD3D11RHI:     AdapterLuid : 0 62549
+[2023.11.25-11.57.49:111][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.11.25-11.57.49:111][  0]LogD3D11RHI: Async texture creation enabled
+[2023.11.25-11.57.49:111][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.11.25-11.57.49:111][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.11.25-11.57.49:595][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.11.25-11.57.50:013][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.11.25-11.57.50:575][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/ObstacleAssault.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/ObstacleAssault.uproject"  -platform=all'
+[2023.11.25-11.57.50:637][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/ObstacleAssault.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/ObstacleAssault.uproject"  -platform=all" ]
+[2023.11.25-11.57.51:282][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.11.25-11.57.51:810][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.11.25-11.57.51:810][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.11.25-11.57.52:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.11.25-11.57.52:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.11.25-11.57.52:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.11.25-11.57.52:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.11.25-11.57.52:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.11.25-11.57.52:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.11.25-11.57.52:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.11.25-11.57.52:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.11.25-11.57.52:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.11.25-11.57.52:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.11.25-11.57.52:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.11.25-11.57.52:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.11.25-11.57.53:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.11.25-11.57.53:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.11.25-11.57.53:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.11.25-11.57.53:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.11.25-11.57.53:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.11.25-11.57.53:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.11.25-11.57.53:240][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.11.25-11.57.53:716][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.25-11.57.53:757][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.11.25-11.57.53:757][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.11.25-11.57.53:757][  0]LogTargetPlatformManager:   ADPCM
+[2023.11.25-11.57.53:757][  0]LogTargetPlatformManager:   PCM
+[2023.11.25-11.57.53:824][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.11.25-11.57.53:824][  0]LogTargetPlatformManager:   BINKA
+[2023.11.25-11.57.53:824][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.11.25-11.57.53:824][  0]LogTargetPlatformManager:   OGG
+[2023.11.25-11.57.53:824][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.11.25-11.57.53:824][  0]LogTargetPlatformManager:   OPUS
+[2023.11.25-11.57.56:395][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.11.25-11.57.56:702][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.11.25-11.57.56:878][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.11.25-11.57.56:901][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.11.25-11.57.56:902][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.11.25-11.57.56:902][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.11.25-11.57.56:902][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.11.25-11.57.56:902][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.11.25-11.57.56:902][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.11.25-11.57.56:958][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.11.25-11.57.57:131][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:132][  0]LogShaderCompilers: Display: Failed to save shader autogen file: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:132][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:134][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:134][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:171][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:171][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.25-11.57.57:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.11.25-11.57.57:380][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.11.25-11.57.57:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.25-11.57.57:380][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.11.25-11.57.57:715][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.11.25-11.57.57:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.25-11.57.57:716][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.11.25-11.57.57:783][  0]LogDerivedDataCache: Speed tests for C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2023.11.25-11.57.57:784][  0]LogDerivedDataCache: Display: Performance to C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.29ms. RandomReadSpeed=15.97MBs, RandomWriteSpeed=186.17MBs. Assigned SpeedClass 'Local'
+[2023.11.25-11.57.57:799][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.11.25-11.57.57:799][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.11.25-11.57.57:799][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.11.25-11.57.57:817][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.11.25-11.57.57:817][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.11.25-11.57.58:331][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Shaders/WorkingDirectory/19632/).
+[2023.11.25-11.57.58:331][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/F159C66E47350BB017BD6D837AA66FE4/'.
+[2023.11.25-11.57.58:417][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.11.25-11.57.58:417][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.11.25-11.58.12:124][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.11.25-11.58.12:124][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.25-11.58.12:240][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.25-11.58.12:934][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2023.11.25-11.58.13:025][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.11.25-11.58.30:874][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.11.25-11.58.32:471][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.11.25-11.58.33:241][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.25-11.58.33:241][  0]LogDeviceProfileManager: Active device profile: [00000AB9ADA60C40][00000AB987F25000 50] WindowsEditor
+[2023.11.25-11.58.33:241][  0]LogDeviceProfileManager: Profiles: [00000AB9ADA60700][00000AB99CE6A000 50] Windows, [00000AB9ADA60C40][00000AB987F25000 50] WindowsEditor, [00000AB9ADA62680][00000AB99FE40000 50] WindowsServer, [00000AB9ADA624C0][00000AB9AD9D0000 50] WindowsClient, [00000AB9ADA62300][00000AB9AD9D5000 50] IOS, [00000AB9ADA62140][00000AB9AD9D7800 50] iPadAir2, [00000AB9ADA65080][00000AB9AD9DC800 50] IPadPro, [00000AB9ADA65400][00000AB9AD9DA000 50] iPadAir3, [00000AB9ADA64440][00000AB99FE42800 50] iPadAir4, [00000AB9ADA62A00][00000AB9AD9F0000 50] iPadMini4, [00000AB9ADA62D80][00000AB9AD9F5000 50] iPadMini5, [00000AB9ADA64EC0][00000AB9AD9F7800 50] iPadMini6, [00000AB9ADA67A80][00000AB9AD9D2800 50] iPhone6S, [00000AB9ADA678C0][00000AB9AD9FC800 50] iPhone7, [00000AB9ADA67540][00000AB9AD9FA000 50] iPodTouch7, [00000AB9ADA60000][00000AB9ADA90000 50] iPhone6SPlus, [00000AB9ADA67700][00000AB9ADA95000 50] iPhone7Plus, [00000AB9ADA60FC0][00000AB9ADA97800 50] iPhoneSE, [00000AB9ADA63640][00000AB9ADA9A000 50] iPhone8, [00000AB9ADA60380][00000AB9ADA9C800 50] iPhone8Plus, [00000AB9ADA639C0][00000AB9AD9F2800 50] iPhoneX, [00000AB9ADA67C40][00000AB9ADA80000 50] iPhoneXS, [00000AB9ADA67380][00000AB9ADA85000 50] iPhoneXSMax, [00000AB9ADA65E80][00000AB9ADA87800 50] iPhoneXR, [00000AB9ADA64B40][00000AB9ADA8A000 50] iPhone11, [00000AB9ADA61340][00000AB9ADA8C800 50] iPhone11Pro, [00000AB9ADA63100][00000AB9ADA92800 50] iPhone11ProMax, [00000AB9ADA62BC0][00000AB9ADA10000 50] iPhoneSE2, [00000AB9ADA61DC0][00000AB9ADA15000 50] iPhone12Mini, [00000AB9ADA663C0][00000AB9ADA17800 50] iPhone12, [00000AB9ADA60E00][00000AB9ADA1A000 50] iPhone12Pro, [00000AB9ADA64280][00000AB9ADA1C800 50] iPhone12ProMax, [00000AB9ADA66040][00000AB9ADA82800 50] iPhone13Mini, [00000AB9ADA65240][00000AB9ADA20000 50] iPhone13, [00000AB9ADA64D00][00000AB9ADA25000 50] iPhone13Pro, [00000AB9ADA63480][00000AB9ADA27800 50] iPhone13ProMax, [00000AB9ADA61180][00000AB9ADA2A000 50] iPadPro105, [00000AB9ADA63B80][00000AB9ADA2C800 50] iPadPro129, [00000AB9ADA66740][00000AB9ADA12800 50] iPadPro97, [00000AB9ADA63F00][00000AB9ADA30000 50] iPadPro2_129, [00000AB9ADA647C0][00000AB9ADA35000 50] iPad5, [00000AB9ADA66200][00000AB9ADA37800 50] iPad6, [00000AB9ADA65CC0][00000AB9ADA3A000 50] iPad7, [00000AB9ADA61880][00000AB9ADA3C800 50] iPad8, [00000AB9ADA616C0][00000AB9ADA22800 50] iPad9, [00000AB9ADA63800][00000AB9ADAC0000 50] iPadPro11, [00000AB9ADA65B00][00000AB9ADAC5000 50] iPadPro2_11, [00000AB9ADA640C0][00000AB9ADAC7800 50] iPadPro3_11, [00000AB9ADA65780][00000AB9ADACA000 50] iPadPro3_129, [00000AB9ADA62840][00000AB9ADACC800 50] iPadPro4_129, [00000AB9ADA66E40][00000AB9ADA32800 50] iPadPro5_129, [00000AB9ADA64980][00000AB9ADAD0000 50] AppleTV, [00000AB9ADA66C80][00000AB9ADAD5000 50] AppleTV4K, [00000AB9ADA61500][00000AB9ADAD7800 50] TVOS, [00000AB9ADA6A2C0][00000AB9ADADC800 50] Mac, [00000AB9ADA6A640][00000AB9ADADA000 50] MacEditor, [00000AB9ADA63D40][00000AB9ADAC2800 50] MacClient, [00000AB9ADA61A40][00000AB9ADAE0000 50] MacServer, [00000AB9ADA6A9C0][00000AB9ADAE7800 50] Linux, [00000AB9ADA671C0][00000AB9ADAE5000 50] LinuxEditor, [00000AB9ADA68180][00000AB9ADAEA000 50] LinuxArm64Editor, [00000AB9ADA69680][00000AB9ADAEC800 50] LinuxArm64, [00000AB9ADA61C00][00000AB9ADAD2800 50] LinuxClient, [00000AB9ADA68340][00000AB9ADAF0000 50] LinuxArm64Client, [00000AB9ADA6A800][00000AB9ADAF5000 50] LinuxServer, [00000AB9ADA68F80][00000AB9ADAF7800 50] LinuxArm64Server, [00000AB9ADA68500][00000AB9ADAFA000 50] Android, [00000AB9ADA66AC0][00000AB9ADAFC800 50] Android_Preview_OpenGL, [00000AB9ADA61F80][00000AB9ADAE2800 50] Android_Preview_Vulkan, [00000AB9ADA60A80][00000AB9ADB00000 50] Android_Low, [00000AB9ADA686C0][00000AB9ADB05000 50] Android_Mid, [00000AB9ADA601C0][00000AB9ADB07800 50] Android_High, [00000AB9ADA68880][00000AB9ADB0A000 50] Android_Default, [00000AB9ADA66580][00000AB9ADB0C800 50] Android_Adreno4xx, [00000AB9ADA632C0][00000AB9ADAF2800 50] Android_Adreno5xx_Low, [00000AB9ADA68DC0][00000AB9ADB10000 50] Android_Adreno5xx, [00000AB9ADA67FC0][00000AB9ADB15000 50] Android_Adreno6xx, [00000AB9ADA60540][00000AB9ADB17800 50] Android_Adreno6xx_Vulkan, [00000AB9ADA62F40][00000AB9ADB1A000 50] Android_Adreno7xx, [00000AB9ADA69A00][00000AB9ADB1C800 50] Android_Adreno7xx_Vulkan, [00000AB9ADA69840][00000AB9ADB02800 50] Android_Mali_T6xx, [00000AB9ADA655C0][00000AB9ADB20000 50] Android_Mali_T7xx, [00000AB9ADA65940][00000AB9ADB25000 50] Android_Mali_T8xx, [00000AB9ADA6A480][00000AB9ADB27800 50] Android_Mali_G71, [00000AB9ADA67000][00000AB9ADB2A000 50] Android_Mali_G72, [00000AB9ADA6B440][00000AB9ADB2C800 50] Android_Mali_G72_Vulkan, [00000AB9ADA6B600][00000AB9ADB12800 50] Android_Mali_G76, [00000AB9ADA68A40][00000AB9ADAA0000 50] Android_Mali_G76_Vulkan, [00000AB9ADA66900][00000AB9ADAA5000 50] Android_Mali_G77, [00000AB9ADA6BB40][00000AB9ADAA7800 50] Android_Mali_G77_Vulkan, [00000AB9ADA6AD40][00000AB9ADAAA000 50] Android_Mali_G78, [00000AB9ADA6AB80][00000AB9ADAAC800 50] Android_Mali_G78_Vulkan, [00000AB9ADA6A100][00000AB9ADB22800 50] Android_Mali_G710, [00000AB9ADA69F40][00000AB9ADA40000 50] Android_Mali_G710_Vulkan, [00000AB9ADA6C400][00000AB9ADA45000 50] Android_Xclipse_920, [00000AB9ADA6C5C0][00000AB9ADA47800 50] Android_Xclipse_920_Vulkan, [00000AB9ADA6B980][00000AB9ADA4A000 50] Android_Vulkan_SM5, [00000AB9ADA64600][00000AB9ADA4C800 50] Android_PowerVR_G6xxx, [00000AB9ADA6CE80][00000AB9ADAA2800 50] Android_PowerVR_GT7xxx, [00000AB9ADA694C0][00000AB9ADB30000 50] Android_PowerVR_GE8xxx, [00000AB9ADA6D040][00000AB9ADB35000 50] Android_PowerVR_GM9xxx, [00000AB9ADA6C240][00000AB9ADB37800 50] Android_PowerVR_GM9xxx_Vulkan, [00000AB9ADA68C00][00000AB9ADB3A000 50] Android_TegraK1, [00000AB9ADA6BD00][00000AB9ADB3C800 50] Android_Unknown_Vulkan, [00000AB9ADA6D200][00000AB9ADA42800 50] Oculus_Quest, [00000AB9ADA6AF00][00000AB9ADB40000 50] Oculus_Quest2, [00000AB9ADA6C940][00000AB9ADB45000 50] HoloLens, 
+[2023.11.25-11.58.33:241][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.11.25-11.58.33:579][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.11.25-11.58.33:580][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.11.25-11.58.33:580][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.25-11.58.33:580][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.25-11.58.33:580][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.20348.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.11.25-11.58.34:538][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.11.25-11.58.35:150][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D8E4E51484EFA4241EA5163F4A9EFF7461BE39B3), compiling. Is special engine material.
+[2023.11.25-11.58.36:851][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CDCA6E578986D07DE06F0FC9FCD9E3CC4C68A741), compiling. 
+[2023.11.25-12.03.15:716][  0]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.386 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.11.25-12.03.15:716][  0]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.255 and deleted 0 file(s) with total size 0 MiB.
+[2023.11.25-12.03.15:716][  0]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache/Content/2a/34/21ed92fbde28dc53265e1651c43178e56ee9.udd from 'WorldGridMaterial'.
+[2023.11.25-12.03.15:716][  0]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/32/e8/86ae77dd53390b0edf7e3db3d3e3386437be.udd from 'WorldGridMaterial'.
+[2023.11.25-12.03.15:716][  0]LogMaterial: Display: Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0B5C3A5AE787833410B8C938467CC14E1B833C2), compiling. 
+[2023.11.25-12.03.19:026][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.11.25-12.03.19:026][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.11.25-12.03.19:026][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.11.25-12.03.19:026][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.11.25-12.03.19:031][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.11.25-12.03.20:808][  0]LogNetVersion: ObstacleAssault 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2608444120)
+[2023.11.25-12.03.22:844][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: 450EDB28F1518F7DA22DDEA5D8B03588D5D11D75), compiling. 
+[2023.11.25-12.03.23:666][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: DF8B90DAC8D69443ACFDA790C7CE0C756E5A058B), compiling. 
+[2023.11.25-12.03.25:818][  0]LogSlate: Border
+[2023.11.25-12.03.25:818][  0]LogSlate: BreadcrumbButton
+[2023.11.25-12.03.25:818][  0]LogSlate: Default
+[2023.11.25-12.03.25:818][  0]LogSlate: Icons.Save
+[2023.11.25-12.03.25:818][  0]LogSlate: Icons.Toolbar.Settings
+[2023.11.25-12.03.25:818][  0]LogSlate: ListView
+[2023.11.25-12.03.25:818][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.11.25-12.03.25:818][  0]LogSlate: SoftwareCursor_Grab
+[2023.11.25-12.03.25:818][  0]LogSlate: TableView.DarkRow
+[2023.11.25-12.03.25:818][  0]LogSlate: TableView.Row
+[2023.11.25-12.03.25:818][  0]LogSlate: TreeView
+[2023.11.25-12.03.32:568][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: 2EC627F52792AD302391BB95197FE21321489A35), compiling. 
+[2023.11.25-12.03.33:325][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: BE8B100517B24927DC645262D239EA59FA12CE1B), compiling. 
+[2023.11.25-12.03.33:735][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 39FB6843824A9DD00498101AABE01B6C29AD70D2), compiling. 
+[2023.11.25-12.03.36:175][  0]SourceControl: Source control is disabled
+[2023.11.25-12.03.36:535][  0]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A65AD7D39B31AE060D17F8BCA3590837078E0191), compiling. 
+[2023.11.25-12.03.36:619][  0]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C6A97D3E3BB465FA79DDA8B63AB8A338CC938C5E), compiling. 
+[2023.11.25-12.03.36:812][  0]SourceControl: Source control is disabled
+[2023.11.25-12.03.36:813][  0]SourceControl: Source control is disabled
+[2023.11.25-12.03.37:045][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F6343E9742980852A205CAC701881A428A30E5B3), compiling. 
+[2023.11.25-12.03.38:092][  0]LogMaterial: Display: Missing cached shadermap for HairDebugMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DDF6954A60C97E8EA9096994CA26139AECA88B7A), compiling. 
+[2023.11.25-12.03.38:408][  0]LogMaterial: Display: Missing cached shadermap for HairDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BB7902F4CD04FB6818D9E5F0F96C00EE150193C7), compiling. 
+[2023.11.25-12.03.38:565][  0]LogMaterial: Display: Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ADE7556D6BEC301F3A095111B07841AB77E1F433), compiling. 
+[2023.11.25-12.03.38:775][  0]LogMaterial: Display: Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0ADCACBDC93B95828209CA91504AF31B82AB09F4), compiling. 
+[2023.11.25-12.03.39:551][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.11.25-12.03.39:551][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.11.25-12.03.39:551][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.25-12.03.55:461][  0]LogPython: Using Python 3.9.7
+[2023.11.25-12.04.00:523][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 56C4233E4BACECA3391083A304FE6601 | Instance: 0B544B95467D757B9CA4969513F4E4FE (DESKTOP-DGNAOIQ-19632).
+[2023.11.25-12.04.02:984][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.25-12.04.03:464][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.03:966][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.04:467][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.04:969][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.05:471][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.05:972][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.06:473][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.06:974][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.07:476][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.07:977][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.04.08:492][  0]LogFileManager: Error: Error moving file '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/EditorC663DA6148BDAA5567FF7392D47A543D.tmp' to 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Config/WindowsEditor/Editor.ini'.
+[2023.11.25-12.04.08:638][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.25-12.04.09:592][  0]SourceControl: Source control is disabled
+[2023.11.25-12.04.09:830][  0]SourceControl: Source control is disabled
+[2023.11.25-12.04.10:393][  0]SourceControl: Source control is disabled
+[2023.11.25-12.04.10:684][  0]LogUProjectInfo: Found projects:
+[2023.11.25-12.04.13:152][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0A6E6D36631E1ECD43ACF6FF7B8633B659B98E9C), compiling. 
+[2023.11.25-12.04.13:373][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 04228BBB7C76954CDA6288F8F50A8B889D296D5F), compiling. 
+[2023.11.25-12.04.21:053][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.25-12.04.23:220][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.25-12.04.23:789][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.25-12.04.23:789][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.25-12.04.26:939][  0]LogCollectionManager: Loaded 0 collections in 0.002238 seconds
+[2023.11.25-12.04.33:264][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/Collections/' took 0.00s
+[2023.11.25-12.04.33:264][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Content/Developers/Usuario/Collections/' took 0.00s
+[2023.11.25-12.04.33:264][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Content/Collections/' took 0.01s
+[2023.11.25-12.05.00:848][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (17.57s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 16737ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2023.11.25-12.05.01:148][  0]LogEngine: Initializing Engine...
+[2023.11.25-12.05.02:208][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.051 s
+[2023.11.25-12.05.02:664][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CF3ECBFF9F4CC2481EEB7D952CD3CE2F179514C4), compiling. Is special engine material.
+[2023.11.25-12.05.04:678][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM5, Default, SM5 (DDC key hash: EDEFDA1FFA19CB213E75814B6437DD26D9BD95C6), compiling. Is special engine material.
+[2023.11.25-12.05.06:466][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E83FFEF857FA43A701A9B4F1B5C97AEFDC500237), compiling. Is special engine material.
+[2023.11.25-12.05.08:131][  0]LogMaterial: Display: Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3BC81FB78627C9623E36487D542871781B3FD003), compiling. 
+[2023.11.25-12.05.10:009][  0]LogMaterial: Display: Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM5, Default, SM5 (DDC key hash: 61EB4677E058F4732A95C2EEE9213C86074BA758), compiling. 
+[2023.11.25-12.05.11:154][  0]LogMaterial: Display: Missing cached shadermap for BoneWeightMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 16DED2F4CE89C6CB70F5FB31DD02EC54BDCBCABD), compiling. 
+[2023.11.25-12.05.12:005][  0]LogMaterial: Display: Missing cached shadermap for PhysicalMaterialMaskMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E0BF07A8001D3A2ABCEE1674CC4671B581E86881), compiling. 
+[2023.11.25-12.05.13:521][  0]LogMaterial: Display: Missing cached shadermap for FlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8089A877B17D138BE21BC35EC7B024BF1351CC43), compiling. 
+[2023.11.25-12.05.14:158][  0]LogMaterial: Display: Missing cached shadermap for FlattenMaterial_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 3D2E6E0666FF3A9C09A6577822E3BBA2F327118C), compiling. 
+[2023.11.25-12.05.14:674][  0]LogMaterial: Display: Missing cached shadermap for FlattenMaterial_WS_Normal_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 911BA7507B65AE78BE05A2C704728575DD5A708C), compiling. 
+[2023.11.25-12.05.19:702][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.25-12.05.20:486][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.25-12.05.21:761][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.25-12.05.24:697][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.25-12.05.33:183][  0]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMATSM/a7/0b/58bd1c89cb6c357d5bef89bcd6ed455967b7.udd from 'M_ChromeBall'.
+[2023.11.25-12.05.36:168][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.25-12.05.38:268][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.25-12.05.38:691][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.25-12.05.38:691][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.11.25-12.05.39:402][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.25-12.05.39:403][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.25-12.05.39:522][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.25-12.05.39:522][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.25-12.05.39:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.25-12.05.39:525][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.25-12.05.39:525][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.25-12.05.39:525][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.25-12.05.39:525][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.25-12.05.39:569][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.25-12.05.39:852][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.25-12.05.39:852][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.25-12.05.39:852][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.25-12.05.40:992][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.25-12.05.42:153][  0]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2023.11.25-12.05.42:205][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.25-12.05.42:360][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.25-12.05.42:360][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.25-12.05.42:420][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.11.25-12.05.42:427][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.25-12.05.42:440][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.25-12.05.42:440][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.11.25-12.05.42:440][  0]LogInit: FAudioDevice initialized.
+[2023.11.25-12.05.42:463][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.11.25-12.05.42:495][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.25-12.05.42:568][  0]LogNetVersion: Set ProjectVersion to 4.1. Version Checksum will be recalculated on next use.
+[2023.11.25-12.05.42:604][  0]LogInit: Texture streaming: Enabled
+[2023.11.25-12.05.43:966][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.11.25-12.05.44:779][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.11.25-12.05.45:724][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.11.25-12.05.46:035][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.11.25-12.05.46:035][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.11.25-12.07.48:901][  0]LogLiveCoding: Display: Detected running instance in process group "UE_ObstacleAssault_0x1dadf86f", connecting to console process (PID: 17596)
+[2023.11.25-12.07.48:901][  0]LogLiveCoding: Display: Waiting for server
+[2023.11.25-12.07.48:901][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.11.25-12.07.49:070][  0]LogInit: Transaction tracking system initialized
+[2023.11.25-12.07.51:262][  0]BlueprintLog: New page: Editor Load
+[2023.11.25-12.07.56:441][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.56:942][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.57:445][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.57:946][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.58:447][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.58:949][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.59:450][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.07.59:952][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.08.00:454][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.08.00:955][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.11.25-12.08.01:456][  0]LogFileManager: Error: Error moving file '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Saved/LocalizationServiceSettings3A9CC5374892AF634B827C81BB18F676.tmp' to '../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini'.
+[2023.11.25-12.08.01:528][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2023.11.25-12.08.01:533][  0]LocalizationService: Localization service is disabled
+[2023.11.25-12.08.01:690][  0]TimingProfiler: Initialize
+[2023.11.25-12.08.01:730][  0]TimingProfiler: OnSessionChanged
+[2023.11.25-12.08.01:731][  0]LoadingProfiler: Initialize
+[2023.11.25-12.08.01:746][  0]LoadingProfiler: OnSessionChanged
+[2023.11.25-12.08.01:762][  0]NetworkingProfiler: Initialize
+[2023.11.25-12.08.01:762][  0]NetworkingProfiler: OnSessionChanged
+[2023.11.25-12.08.01:762][  0]MemoryProfiler: Initialize
+[2023.11.25-12.08.01:763][  0]MemoryProfiler: OnSessionChanged
+[2023.11.25-12.08.01:923][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2023.11.25-12.08.01:923][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2023.11.25-12.08.03:166][  0]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9E931CCB9F3B3D32DFEAA38EDEA350D83F83117B), compiling. 
+[2023.11.25-12.08.12:993][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/CursoUdemy/Unreal-Obstacle-project/ObstacleAssault/Content/' took 1.07s
+[2023.11.25-12.08.12:993][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.11.25-12.08.17:206][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.11.25-12.08.17:823][  0]SourceControl: Source control is disabled
+[2023.11.25-12.08.17:875][  0]LogUnrealEdMisc: Loading editor; pre map load, took 681.872
+[2023.11.25-12.08.18:206][  0]LightingResults: New page: Lighting Build
+[2023.11.25-12.08.18:921][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.25-12.08.19:372][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.25-12.08.19:752][  0]MapCheck: New page: Map Check
+[2023.11.25-12.08.19:752][  0]LightingResults: New page: Lighting Build
+[2023.11.25-12.08.23:952][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.25-12.08.25:607][  0]LogUObjectHash: Compacting FUObjectHashTables data took  12.43ms
+[2023.11.25-12.08.37:556][  0]LogLinker: Warning: [AssetLog] E:\Unreal Projects\CursoUdemy\Unreal-Obstacle-project\ObstacleAssault\Content\LearningKit_Games\Maps\LearningKit_Games_Showcase.umap: Failed to load '/Engine/EngineSky/M_SkyTimeOfDay': Can't find file.
+[2023.11.25-12.08.37:569][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Engine/EngineSky/M_SkyTimeOfDay'
